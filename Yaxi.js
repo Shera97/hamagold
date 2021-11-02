@@ -8,7 +8,7 @@ Yaxi.on("ready", () => {
   );
   let statuses = [
   
-  `You only live once, so try to live for God.`,
+  `JUST ALLAH.`,
  
   ];
   setInterval(function() {
@@ -25,4 +25,4 @@ Yaxi.on("ready", () => {
     if (join) join.join();
   });
 //////////////// tokn lera da bne 
-Yaxi.login("");
+Yaxi.login("mfa.TRy4tqU_rGZvcPDSoHMpOVm3v4Zimn2y1ubHZB8YNN6lVzOrQhGQ-0_HSkDr214gmPX2DthzrzRVOF6V0kBO");

@@ -8,7 +8,7 @@ Yaxi.on("ready", () => {
   );
   let statuses = [
   
-  `JUST ALLAH CAN JUDGE ME.`,
+  `IMPRATOR UP.`,
  
   ];
   setInterval(function() {

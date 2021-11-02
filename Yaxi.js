@@ -21,7 +21,7 @@ Yaxi.on("ready", () => {
 });
 ///////////////////////
 Yaxi.on("ready", () => {
-    var join = Yaxi.channels.get(""); /// id voice
+    var join = Yaxi.channels.get("844157774836793354"); /// id voice
     if (join) join.join();
   });
 //////////////// tokn lera da bne 

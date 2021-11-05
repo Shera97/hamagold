@@ -8,7 +8,7 @@ Yaxi.on("ready", () => {
   );
   let statuses = [
   
-  `JUST ALLAH.`,
+  `ماسی بە ٧ ھەزاریە.`,
  
   ];
   setInterval(function() {

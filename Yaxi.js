@@ -8,7 +8,7 @@ Yaxi.on("ready", () => {
   );
   let statuses = [
   
-  `ماسی بە ٧ ھەزاریە.`,
+  `RAMIS🔥.`,
  
   ];
   setInterval(function() {

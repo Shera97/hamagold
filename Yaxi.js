@@ -8,7 +8,7 @@ Yaxi.on("ready", () => {
   );
   let statuses = [
   
-  `RAMIS🔥.`,
+  `HAJE IS HERE.`,
  
   ];
   setInterval(function() {

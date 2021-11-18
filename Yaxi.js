@@ -8,7 +8,7 @@ Yaxi.on("ready", () => {
   );
   let statuses = [
   
-  `FAQAT FARHAD ZIRAK.`,
+  `QAMAR 404.`,
  
   ];
   setInterval(function() {

@@ -8,7 +8,7 @@ Yaxi.on("ready", () => {
   );
   let statuses = [
   
-  `QAMAR 404.`,
+  `.`,
  
   ];
   setInterval(function() {
@@ -24,5 +24,4 @@ Yaxi.on("ready", () => {
     var join = Yaxi.channels.get("844157774836793354"); /// id voice
     if (join) join.join();
   });
-//////////////// tokn lera da bne 
-Yaxi.login("mfa.TRy4tqU_rGZvcPDSoHMpOVm3v4Zimn2y1ubHZB8YNN6lVzOrQhGQ-0_HSkDr214gmPX2DthzrzRVOF6V0kBO");
+///");
